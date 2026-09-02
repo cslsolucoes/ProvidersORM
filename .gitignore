@@ -80,3 +80,7 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+
+# Test-environment connection profiles: embeds real dev/test credentials
+# (DB users, LDAP bind DN, domain admin) and internal hosts. Never publish.
+Connections.Config.Test.pas
