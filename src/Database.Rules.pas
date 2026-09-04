@@ -31,7 +31,7 @@ unit Database.Rules;
 {$ENDIF}
 interface
 
-{$I ../../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 uses
   Databases.Interfaces,

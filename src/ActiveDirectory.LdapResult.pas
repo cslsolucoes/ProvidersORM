@@ -27,7 +27,7 @@
                         objectSid binário → 'S-1-5-21-...'.
   ============================================================================= }
 
-{$I ../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 {$IFDEF USE_LDAP}
 unit ActiveDirectory.LdapResult;
 

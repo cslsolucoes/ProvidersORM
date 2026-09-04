@@ -36,7 +36,7 @@ unit Connections.FromConfig;
 
 interface
 
-{$I ../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 uses
   Commons.Types,          // TConnectionData

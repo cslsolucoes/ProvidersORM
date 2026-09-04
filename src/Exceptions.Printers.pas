@@ -32,7 +32,7 @@ unit Exceptions.Printers;
 
 interface
 
-{$I ../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 uses
 {$IF DEFINED(FPC)}

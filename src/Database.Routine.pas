@@ -37,7 +37,7 @@ unit Database.Routine;
 {$ENDIF}
 interface
 
-{$I ../../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 uses
 {$IF DEFINED(FPC)}

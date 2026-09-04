@@ -41,7 +41,7 @@ unit ActiveDirectory.IniFileResult;
 
 interface
 
-{$I ../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 uses
   ActiveDirectory.Main.Interfaces,

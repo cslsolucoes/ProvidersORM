@@ -47,7 +47,7 @@ unit Loggers.Channel.CSV;
 
 interface
 
-{$I ../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IFDEF USE_LOGGERS}
 

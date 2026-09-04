@@ -33,7 +33,7 @@
 
 unit Attributers.ActiveDirectory;
 
-{$I ..\ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 interface
 

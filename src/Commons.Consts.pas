@@ -75,7 +75,7 @@ interface
 uses
   Commons.Types;
 
-  {$I ../ORM.Defines.inc}
+  {$I ORM.Defines.inc}
 
   type
 

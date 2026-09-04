@@ -31,7 +31,7 @@ unit Printers.ReportBuilder.Helper;
 
 interface
 
-{$I ../../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IFDEF USE_REPORTBUILDER}
 

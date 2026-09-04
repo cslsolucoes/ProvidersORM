@@ -31,7 +31,7 @@ unit ZipFile.Facade;
 
 interface
 
-{$I ../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 uses
   Classes,

@@ -65,7 +65,7 @@ unit Loggers.Channel.SysLog;
 
 interface
 
-{$I ../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IF DEFINED(USE_LOGGERS_SYSLOG) AND DEFINED(USE_PARAMETERS) AND DEFINED(MSWINDOWS)}
   {$DEFINE LOGGERS_SYSLOG_CHANNEL_ACTIVE}

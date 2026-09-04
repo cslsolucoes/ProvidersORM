@@ -68,7 +68,7 @@ unit Providers.Printers;
 
 interface
 
-{$I ../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IFDEF USE_PRINTERS}
 

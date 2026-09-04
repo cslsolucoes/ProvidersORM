@@ -31,7 +31,7 @@ unit Attributers.Database;
 
 interface
 
-{$I ../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 uses
   Attributers.Database.Interfaces,

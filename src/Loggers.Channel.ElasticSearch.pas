@@ -58,7 +58,7 @@ unit Loggers.Channel.ElasticSearch;
 
 interface
 
-{$I ../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IF DEFINED(USE_LOGGERS_ELASTICSEARCH) AND DEFINED(USE_PARAMETERS) AND DEFINED(MSWINDOWS)}
   {$DEFINE LOGGERS_ES_CHANNEL_ACTIVE}

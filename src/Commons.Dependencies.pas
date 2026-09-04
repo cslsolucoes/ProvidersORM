@@ -67,7 +67,7 @@ unit Commons.Dependencies;
 
 interface
 
-{$I ../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 uses
   {$IFDEF USE_ZEOS} ZClasses, {$ENDIF}                    // ZEOS_*_VERSION consts

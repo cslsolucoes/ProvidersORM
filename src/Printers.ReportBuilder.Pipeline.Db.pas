@@ -32,7 +32,7 @@ unit Printers.ReportBuilder.Pipeline.Db;
 
 interface
 
-{$I ../../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IFDEF USE_REPORTBUILDER}
 

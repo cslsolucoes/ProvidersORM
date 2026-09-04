@@ -26,7 +26,7 @@ unit Commons.Printers.Types;
 
 interface
 
-{$I ../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 type
   { Destino de saida de um relatorio (terminal generico da API Printers). }

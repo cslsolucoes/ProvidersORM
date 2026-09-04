@@ -36,7 +36,7 @@ unit GraphQL.Server.Http.Handler;
 
 interface
 
-{$I ../../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IFDEF USE_GRAPHQL}
 

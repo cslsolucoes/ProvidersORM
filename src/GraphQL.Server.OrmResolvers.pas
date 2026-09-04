@@ -39,7 +39,7 @@ unit GraphQL.Server.OrmResolvers;
 
 interface
 
-{$I ../../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IF DEFINED(USE_GRAPHQL) AND DEFINED(USE_DATABASE) AND DEFINED(USE_QUERY_BUILDER)}
 

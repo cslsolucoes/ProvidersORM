@@ -40,7 +40,7 @@ unit Printers.ReportBuilder.Sql.Dialect;
 
 interface
 
-{$I ../../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IFDEF USE_REPORTBUILDER}
 

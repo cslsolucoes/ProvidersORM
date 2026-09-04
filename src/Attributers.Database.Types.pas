@@ -28,7 +28,7 @@ unit Attributers.Database.Types;
 
 interface
 
-{$I ../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 type
   { Informacao de mapeamento propriedade <-> coluna obtida por RTTI ([Field], [PrimaryKey]). }

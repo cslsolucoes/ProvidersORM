@@ -36,7 +36,7 @@ unit Commons.Version;
 interface
 
 const
-{$I ../ORM.Version.inc}
+{$I ORM.Version.inc}
 
   { Espelhos da API publica v2.3.0 (derivados do include - SSOT) }
   PROVIDERORM_VERSION      = VERSION_SEMVER;   // 'M.N.P'

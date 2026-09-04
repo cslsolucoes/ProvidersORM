@@ -100,7 +100,7 @@ unit Providers;
 
 interface
 
-{$I ../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 uses
   Providers.Connections // core, sem gate USE_* (sempre presente)

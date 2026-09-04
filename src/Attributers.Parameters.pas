@@ -50,7 +50,7 @@ unit Attributers.Parameters;
 interface
 
 {$HINTS OFF}
-{$I ../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 uses
   Attributers.Parameters.Interfaces,

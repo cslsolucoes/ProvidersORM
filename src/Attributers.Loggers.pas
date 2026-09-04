@@ -35,7 +35,7 @@ unit Attributers.Loggers;
 
 interface
 
-{$I ../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 uses
   Attributers.Loggers.Interfaces,

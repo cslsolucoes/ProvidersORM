@@ -38,7 +38,7 @@ unit Providers.Parameters;
 
 interface
 
-{$I ../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IFDEF USE_PARAMETERS}
 

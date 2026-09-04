@@ -26,7 +26,7 @@ unit Database.TypeDatabase;
 {$ENDIF}
 interface
 
-{$I ../../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 uses
   Commons.Types,

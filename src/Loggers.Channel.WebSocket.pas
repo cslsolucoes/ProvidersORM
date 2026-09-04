@@ -117,7 +117,7 @@ unit Loggers.Channel.WebSocket;
 
 interface
 
-{$I ../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IF DEFINED(USE_LOGGERS_WEBSOCKET) AND DEFINED(USE_PARAMETERS) AND DEFINED(MSWINDOWS)}
   {$DEFINE LOGGERS_WS_CHANNEL_ACTIVE}

@@ -48,7 +48,7 @@ unit Loggers.Channel.Http;
 
 interface
 
-{$I ../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IF DEFINED(USE_LOGGERS_HTTP) AND DEFINED(USE_PARAMETERS) AND DEFINED(MSWINDOWS)}
   {$DEFINE LOGGERS_HTTP_CHANNEL_ACTIVE}

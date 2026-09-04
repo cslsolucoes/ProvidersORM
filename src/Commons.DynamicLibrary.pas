@@ -39,7 +39,7 @@
 
 interface
 
-{$I ../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 {$IFDEF FPC}
   {$I Commons.FPC.inc}
 {$ENDIF}

@@ -76,7 +76,7 @@
   ============================================================================= }
 unit Database.Dialect.Firebird;
 
-{$I ../../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IF DEFINED(FPC)}
   {$MODE DELPHI}

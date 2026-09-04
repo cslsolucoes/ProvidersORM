@@ -33,7 +33,7 @@ unit GraphQL.Client.Query;
 
 interface
 
-{$I ../../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IF DEFINED(USE_GRAPHQL) AND DEFINED(USE_GRAPHQL_CLIENT)}
 

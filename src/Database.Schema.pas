@@ -191,7 +191,7 @@ unit Database.Schema;
 {$ENDIF}
 interface
 
-{$I ../../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 uses
   Database.Tables,

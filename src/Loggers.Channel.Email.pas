@@ -51,7 +51,7 @@ unit Loggers.Channel.Email;
 
 interface
 
-{$I ../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IF DEFINED(USE_LOGGERS_EMAIL) AND DEFINED(USE_PARAMETERS) AND DEFINED(MSWINDOWS)}
   {$DEFINE LOGGERS_EML_CHANNEL_ACTIVE}

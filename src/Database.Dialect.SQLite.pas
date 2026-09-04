@@ -45,7 +45,7 @@
   ============================================================================= }
 unit Database.Dialect.SQLite;
 
-{$I ../../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IF DEFINED(FPC)}
   {$MODE DELPHI}

@@ -60,7 +60,7 @@ unit Loggers.Channel.Redis;
 
 interface
 
-{$I ../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IF DEFINED(USE_LOGGERS_REDIS) AND DEFINED(USE_PARAMETERS) AND DEFINED(MSWINDOWS)}
   {$DEFINE LOGGERS_REDIS_CHANNEL_ACTIVE}

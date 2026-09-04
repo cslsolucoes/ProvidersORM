@@ -34,7 +34,7 @@
   ============================================================================= }
 unit Commons.PoolConnections.Types;
 
-{$I ../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IF DEFINED(FPC)}
   {$MODE DELPHI}

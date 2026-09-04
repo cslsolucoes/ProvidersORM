@@ -33,7 +33,7 @@ unit Loggers.NullLogger;
 
 interface
 
-{$I ../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IFDEF USE_LOGGERS}
 

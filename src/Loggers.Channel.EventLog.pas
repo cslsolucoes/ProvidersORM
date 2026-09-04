@@ -65,7 +65,7 @@ unit Loggers.Channel.EventLog;
 
 interface
 
-{$I ../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IFDEF USE_LOGGERS}
 

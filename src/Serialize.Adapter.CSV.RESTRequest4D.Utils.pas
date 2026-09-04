@@ -30,7 +30,7 @@
   ============================================================================= }
 unit Serialize.Adapter.CSV.RESTRequest4D.Utils;
 
-{$I ../../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IF DEFINED(FPC)}
   {$MODE DELPHI}{$H+}

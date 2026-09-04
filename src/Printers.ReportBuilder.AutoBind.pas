@@ -39,7 +39,7 @@ unit Printers.ReportBuilder.AutoBind;
 
 interface
 
-{$I ../../../ORM.Defines.inc}
+{$I ORM.Defines.inc}
 
 {$IFDEF USE_REPORTBUILDER}
 
